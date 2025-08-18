@@ -24,12 +24,10 @@ Je crée des outils, des workflows, et des projets web qui ont du style **et** d
 
 ---
 
-`⚡ Fun fact`
-
-Quand je ne code/design pas, je mixe playlists décalées et jingles pour webradio.
+> Quand je ne code/design pas, je mixe playlists décalées et jingles pour webradio.
 
 ---
 
 `☺︎ Me contacter`
 
-- E: denis.l@soundshineradio.com  
+- denis.l@soundshineradio.com  
