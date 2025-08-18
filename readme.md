@@ -1,11 +1,11 @@
 # 👋 Salut, moi c’est Denis
 
-Infographiste et développeur curieux, toujours en quête de nouvelles façons de fusionner design et code.  
-Je crée des outils, des workflows, et des projets web qui ont du style **et** du sens.
+Infographiste de formation et développeur autodidacte, je suis un chargé de projet rigoureux, toujours en quête de nouvelles façons de fusionner design et code.
+Je crée des outils, des workflows et des projets web qui allient style et sens.
 
 ---
 
-`⛭ Compétences principales`
+#### `⛭ Compétences principales`
 
 - **Web & Frontend** : HTML, CSS, JavaScript, Nuxt.js  
 - **Backend & APIs** : Node.js, Discord bots  
@@ -15,19 +15,21 @@ Je crée des outils, des workflows, et des projets web qui ont du style **et** d
 
 ---
 
-`✓ Projets récents`
+#### `✓ Projets récents`
 
-- **soundSHINE HQ** : gestion complète de publications sociales pour une webradio indépendante du Québec | Tech : `Airtable`, `Canva` 
-- **soundshine-bot** : bot Discord modulable pour radio communautaire, avec commandes de streaming, stats et requests  `Node.js`, `discord.js`, `Express.js` 
+- **soundSHINE HQ** — gestion de publications sociales pour une webradio indépendante du Québec  
+  _Tech :_ `Airtable`, `Canva`  
+- **soundshine-bot** — bot Discord modulable pour radio communautaire  
+  _Tech :_ `Node.js`, `discord.js`, `Express.js` 
 
 *(plus de projets à venir… stay tuned !)*
 
 ---
 
-> Quand je ne code/design pas, je mixe playlists décalées et jingles pour webradio.
+> Quand je ne code/design pas, je mixe sur soundshineradio.
 
 ---
 
-`☺︎ Me contacter`
+#### `☺︎ Me contacter`
 
-- denis.l@soundshineradio.com  
+- [denis.l@soundshineradio.com](mailto:denis.l@soundshineradio.com)
