@@ -17,7 +17,7 @@ Je crée des outils, des workflows et des projets web qui allient style et sens.
 
 #### `✓ Projets récents`
 
-- **soundSHINE HQ** — gestion de publications sociales pour une webradio indépendante du Québec  
+- **soundSHINE HQ** — gestion de publications sociales pour une webradio indépendante 
   _Tech :_ `Airtable`, `Canva`  
 - **soundshine-bot** — bot Discord modulable pour radio communautaire  
   _Tech :_ `Node.js`, `discord.js`, `Express.js` 
