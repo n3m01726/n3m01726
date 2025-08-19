@@ -5,28 +5,35 @@ Je crée des outils, des workflows et des projets web qui allient style et sens.
 
 ---
 
-#### `⛭ Compétences principales`
+#### `⛭ Compétences principales - DEV`
+```
+• Web & Frontend : HTML, CSS, JavaScript, Nuxt.js  
+• Backend & APIs : Node.js, Discord bots  
+• Bases de données : SQLite (via better-sqlite3), Airtable  
+• Outils & workflow : Git, CI/CD, scripts d’automatisation, Canva, Airtable  
+``` 
+---
 
-- **Web & Frontend** : HTML, CSS, JavaScript, Nuxt.js  
-- **Backend & APIs** : Node.js, Discord bots  
-- **Bases de données** : SQLite (via better-sqlite3), Airtable  
-- **Outils & workflow** : Git, CI/CD, scripts d’automatisation, Canva, Airtable  
-- **Création & design** : Graphisme, interfaces UX/UI, édition audio/visuelle  
-
+#### `⛭ Compétences principales - Design graphique`
+Profil : Graphisme, direction artistique
+```
+• Adobe Photoshop     •••••••••••
+• Adobe Illustrator   •••••••
+• Adobe Indesign      ••••••••••
+• Figma               •••••
+```  
 ---
 
 #### `✓ Projets récents`
-
-- **soundSHINE HQ** — gestion de publications sociales pour une webradio indépendante 
-  _Tech :_ `Airtable`, `Canva`  
-- **soundshine-bot** — bot Discord modulable pour radio communautaire  
-  _Tech :_ `Node.js`, `discord.js`, `Express.js` 
-
-*(plus de projets à venir… stay tuned !)*
-
+```
+• soundSHINE HQ — gestion de publications sociales pour une webradio indépendante 
+  Tech: Airtable, Canva  
+• soundshine-bot — bot Discord modulable pour radio communautaire  
+  Tech: Node.js, discord.js, Express.js 
+```
 ---
 
-> Quand je ne code/design pas, je mixe sur soundshineradio.
+> Mes pixels et mes boucles ont besoin de thé et de chocolat chaud pour coexister.
 
 ---
 
