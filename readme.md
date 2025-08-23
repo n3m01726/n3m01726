@@ -5,6 +5,16 @@ Je crée des outils, des workflows et des projets web qui allient style et sens.
 
 ---
 
+#### `⛭ Compétences principales – Chargé de projet`
+```
+• Gestion de projets : planification, suivi budgétaire, coordination d’équipes  
+• Communication : animation de réunions, vulgarisation technique, relation client  
+• Outils & workflow : Airtable, Notion, Google Workspace, Slack/Discord, Canva  
+• Organisation : structuration de livrables, priorisation, respect des échéances  
+• Culture numérique : design, web, diffusion audio et contenus multimédias  
+```
+---
+
 #### `⛭ Compétences principales - DEV`
 ```
 • Web & Frontend : HTML, CSS, JavaScript, Nuxt.js  
