@@ -15,7 +15,7 @@ Je crée des outils, des workflows et des projets web qui allient style et sens.
 ```
 ---
 
-#### `⛭ Compétences principales - DEV`
+#### `⛭ Compétences - DEV`
 ```
 • Web & Frontend : HTML, CSS, JavaScript, Nuxt.js  
 • Backend & APIs : Node.js, Discord bots  
@@ -24,7 +24,7 @@ Je crée des outils, des workflows et des projets web qui allient style et sens.
 ``` 
 ---
 
-#### `⛭ Compétences principales - Design graphique`
+#### `⛭ Compétences - Design graphique`
 Profil : Graphisme, direction artistique
 ```
 • Adobe Photoshop     •••••••••••
