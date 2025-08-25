@@ -1,7 +1,6 @@
 # 👋 Salut, moi c’est Denis
 
-Infographiste de formation et développeur autodidacte, je suis un chargé de projet rigoureux, toujours en quête de nouvelles façons de fusionner design et code.
-Je crée des outils, des workflows et des projets web qui allient style et sens.
+Infographiste de formation, j’ai élargi ma pratique au développement web pour mieux comprendre et connecter le design à la technique. Aujourd’hui, je conçois et pilote des projets numériques en alliant rigueur de gestion, sens esthétique et savoir-faire technique.
 
 ---
 
