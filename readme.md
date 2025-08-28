@@ -57,4 +57,4 @@ Profil : Graphisme, direction artistique
 
 #### `☺︎ Me contacter`
 
-* [denis.l@soundshineradio.com](mailto:denis.l@soundshineradio.com)
+* [denis@soundshineradio.com](mailto:denis@soundshineradio.com)
