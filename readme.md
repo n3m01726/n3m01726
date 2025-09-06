@@ -1,6 +1,6 @@
 # 👋 Salut, moi c’est Denis
 
-Infographiste de formation, j’ai élargi ma pratique au développement web pour mieux comprendre et connecter le design à la technique. Aujourd’hui, je conçois et pilote des projets numériques en alliant **rigueur de gestion**, **sens esthétique** et **savoir-faire technique**.
+Infographiste de formation, j’ai élargi ma pratique au développement web pour relier design et technique. Aujourd’hui, je pilote des projets numériques en coordonnant équipes et ressources, avec un **œil esthétique** et une **compréhension concrète** des technologies impliquées.
 
 ---
 
