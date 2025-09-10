@@ -54,5 +54,6 @@ Profil : Graphisme, direction artistique
 ---
 
 #### `☺︎ Me contacter`
-
-* [denis@soundshineradio.com](mailto:denis@soundshineradio.com)
+- GitHub: [@n3m01726](https://github.com/n3m01726)  
+- LinkedIn: [Denis L.]([#](https://www.linkedin.com/in/denis-l-840a8217b/))  
+- Portfolio: [soundshineradio.com](soundshineradio.com)
