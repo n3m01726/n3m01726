@@ -49,8 +49,6 @@ Profil : Graphisme, direction artistique
   Tech : Node.js, discord.js, Express.js 
 ```
 
----
-
 > Mes pixels et mes boucles s’entendent mieux après un thé et un chocolat chaud.
 
 ---
