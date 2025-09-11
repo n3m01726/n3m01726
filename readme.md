@@ -1,3 +1,5 @@
+[English Version](https://github.com/n3m01726/n3m01726/blob/main/readme-en.md) 
+
 # 👋 Salut, moi c’est Denis
 
 Infographiste de formation, j’ai élargi ma pratique au développement web pour relier design et technique. Aujourd’hui, je pilote des projets numériques en coordonnant équipes et ressources, avec un **œil esthétique** et une **compréhension concrète** des technologies impliquées.
